@@ -2,6 +2,96 @@
   "canisters": {
     "dip721_nft_container": {
       "main": "src/Main.mo"
+    },
+    "": {
+      "main": "src/Main.mo"
+    },
+    "test": {
+      "main": "src/Main.mo"
+    },
+    "test2": {
+      "main": "src/Main.mo"
+    },
+    "test2w": {
+      "main": "src/Main.mo"
+    },
+    "test2w22": {
+      "main": "src/Main.mo"
+    },
+    "ssss": {
+      "main": "src/Main.mo"
+    },
+    "tesss": {
+      "main": "src/Main.mo"
+    },
+    "tesss2": {
+      "main": "src/Main.mo"
+    },
+    "tessss2": {
+      "main": "src/Main.mo"
+    },
+    "ssss2222222": {
+      "main": "src/Main.mo"
+    },
+    "ssss22222s22": {
+      "main": "src/Main.mo"
+    },
+    "tesssss2": {
+      "main": "src/Main.mo"
+    },
+    "wolloh": {
+      "main": "src/Main.mo"
+    },
+    "wollohs": {
+      "main": "src/Main.mo"
+    },
+    "wollohss": {
+      "main": "src/Main.mo"
+    },
+    "truck": {
+      "main": "src/Main.mo"
+    },
+    "t2esssss2": {
+      "main": "src/Main.mo"
+    },
+    "Kaka": {
+      "main": "src/Main.mo"
+    },
+    "Kaka2": {
+      "main": "src/Main.mo"
+    },
+    "Kaka22": {
+      "main": "src/Main.mo"
+    },
+    "wollo": {
+      "main": "src/Main.mo"
+    },
+    "wollo22": {
+      "main": "src/Main.mo"
+    },
+    "testtt": {
+      "main": "src/Main.mo"
+    },
+    "provider": {
+      "main": "src/Main.mo"
+    },
+    "res": {
+      "main": "src/Main.mo"
+    },
+    "t2esssssss2": {
+      "main": "src/Main.mo"
+    },
+    "t2esssssssss2": {
+      "main": "src/Main.mo"
+    },
+    "rese": {
+      "main": "src/Main.mo"
+    },
+    "tes1": {
+      "main": "src/Main.mo"
+    },
+    "gus": {
+      "main": "src/Main.mo"
     }
   }
 }
